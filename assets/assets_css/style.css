@@ -24,3 +24,7 @@ html {
 body {
     background: var(--white);
 }
+
+.navbar-header{
+    margin: 10px 10px;
+}
